@@ -1,0 +1,15 @@
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test68\obj\Debug\net6.0\test68.csproj.AssemblyReference.cache
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test68\obj\Debug\net6.0\test68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test68\obj\Debug\net6.0\test68.AssemblyInfoInputs.cache
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test68\obj\Debug\net6.0\test68.AssemblyInfo.cs
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test68\obj\Debug\net6.0\test68.csproj.CoreCompileInputs.cache
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test68\bin\Debug\net6.0\test68.exe
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test68\bin\Debug\net6.0\test68.deps.json
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test68\bin\Debug\net6.0\test68.runtimeconfig.json
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test68\bin\Debug\net6.0\test68.dll
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test68\bin\Debug\net6.0\test68.pdb
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test68\obj\Debug\net6.0\test68.dll
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test68\obj\Debug\net6.0\refint\test68.dll
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test68\obj\Debug\net6.0\test68.pdb
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test68\obj\Debug\net6.0\test68.genruntimeconfig.cache
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test68\obj\Debug\net6.0\ref\test68.dll

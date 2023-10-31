@@ -1,0 +1,15 @@
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test64\obj\Debug\net6.0\test64.csproj.AssemblyReference.cache
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test64\obj\Debug\net6.0\test64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test64\obj\Debug\net6.0\test64.AssemblyInfoInputs.cache
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test64\obj\Debug\net6.0\test64.AssemblyInfo.cs
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test64\obj\Debug\net6.0\test64.csproj.CoreCompileInputs.cache
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test64\bin\Debug\net6.0\test64.exe
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test64\bin\Debug\net6.0\test64.deps.json
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test64\bin\Debug\net6.0\test64.runtimeconfig.json
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test64\bin\Debug\net6.0\test64.dll
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test64\bin\Debug\net6.0\test64.pdb
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test64\obj\Debug\net6.0\test64.dll
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test64\obj\Debug\net6.0\refint\test64.dll
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test64\obj\Debug\net6.0\test64.pdb
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test64\obj\Debug\net6.0\test64.genruntimeconfig.cache
+C:\Users\Admim\Desktop\УЧЕБА\Seminar1\test64\obj\Debug\net6.0\ref\test64.dll
